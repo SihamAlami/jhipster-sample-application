@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "MyAppEcole",
+    "packageName": "com.ecole",
+    "packageFolder": "com/ecole",
+    "serverPort": 8040,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "YjY0MWJiMGRmMjhiNDQ0YmZhNDBjYjc4Mzc5YjE0ZDFjMzE2NTg1NWQzYjJmYTY5ZmYzNjI5ZjJhNTFmZTNmOGNiNzY3ODk1MzAwZDc1YjRmZTQ1ZjZhMzVkZGZhZGE1NzVhOGJhZmM2MTliYTE5MzZhNGJjYzRjNmVlNzkzODU=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "SihamAlami",
+  "repository-name": "jhipster-sample-application"
+}
